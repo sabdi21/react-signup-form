@@ -35,6 +35,7 @@ Build a sign up form using `create-react-app` and `reactstrap` to collect the na
 ## Bonus
 
 - Show error messages for incomplete submissions
+- Make your text input component reusable 
 
 You should have:
 
