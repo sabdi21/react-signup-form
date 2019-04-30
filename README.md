@@ -6,6 +6,8 @@ This lab uses what students have learned so far to create a sign up form using `
 
 In the starter code, you'll find a `create-react-app` project with `reactstrap` installed! If you'd like to use something other than `reactstrap`, simply install that one instead.
 
+> NOTE: `reactstrap` is different from `react-bootstrap`, make sure you're looking at the right docs!
+
 ---
 
 ## Prerequisites
