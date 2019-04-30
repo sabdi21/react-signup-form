@@ -2,9 +2,9 @@
 
 Forms are something you will frequently use in `React.js`.
 
-This lab uses what students have learned so far to create a sign up form using `reactstrap`. Alternatively, you may use another UI framework including your IQVIA internal one based on Material UI.
+This lab uses what students have learned so far to create a sign up form using `reactstrap`. Alternatively, you may use another UI framework like Material UI.
 
-In the starter code, you'll find a `create-react-app` project with `reactstrap` installed and a linter fully setup to help stop bugs in their tracks! If you'd like to use something other than `reactstrap`, simply install that one instead.
+In the starter code, you'll find a `create-react-app` project with `reactstrap` installed! If you'd like to use something other than `reactstrap`, simply install that one instead.
 
 ---
 
@@ -24,7 +24,7 @@ Students should be familiar with:
 1.  Fork and Clone this repo
 2.  `npm install` (Hint! Same as `npm i`!)  
 3.  `npm start`
-4.  Complete requirements!
+4.  Complete requirements and do bonus additions!
 5.  Make a pull request to submit your work.
 
 ## Requirements
@@ -44,13 +44,17 @@ You should have:
 
 - Add custom styles and a "logo" to personalize the site.
 - Show custom error messages for incomplete fields
+- Show a success alert when the form is submitted
 - Implement icons to add to your from [React Font Awesome 5](https://github.com/FortAwesome/react-fontawesome)
+- Put your form into a modal
+- Validate that the email is a valid email address
+- 
 
 ## Hints!
 
-- Check out `reactstrap`'s [documentation](https://github.com/reactstrap/reactstrap).
+- Check out `reactstrap`'s [documentation](https://github.com/reactstrap/reactstrap)
+- Check out [Material UI](https://material-ui.com/)
 - React.js [cheatsheet](https://devhints.io/react)
-- Google "`reactstrap` tutorial" and see what you find!
 
 ## [License](LICENSE)
 
